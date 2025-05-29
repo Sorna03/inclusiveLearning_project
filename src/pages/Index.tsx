@@ -41,7 +41,7 @@ const Index = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.3, duration: 0.6 }}
               >
-                Senseable helps you learn sign language through interactive 3D models and 
+                Bridgely helps you learn sign language through interactive 3D models and 
                 real-world video tutorials at your own pace. Start your journey towards 
                 better communication today.
               </motion.p>
@@ -239,7 +239,7 @@ const Index = () => {
           >
             <h2 className="section-heading">Making an Impact</h2>
             <p className="section-subheading">
-              Sensable is helping people around the world connect through sign language
+              Bridgely is helping people around the world connect through sign language
             </p>
           </motion.div>
           
@@ -272,12 +272,12 @@ const Index = () => {
             <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center mr-3">
               <Hand className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-semibold text-gray-900">Senseable</span>
+            <span className="text-xl font-semibold text-gray-900">Bridgely</span>
           </div>
           
           <div className="text-center md:text-right">
             <p className="text-gray-600 text-sm">
-              © {new Date().getFullYear()} Senseable. Breaking barriers through sign language.
+              © {new Date().getFullYear()} Bridgely. Breaking barriers through sign language.
             </p>
           </div>
         </div>
